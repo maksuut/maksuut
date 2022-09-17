@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maksuut
 - 👀 I’m interested in system & network engineering
-- 🌱 I’m currently learning javascript and windows server
+- 🌱 I’m currently learning java and network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
